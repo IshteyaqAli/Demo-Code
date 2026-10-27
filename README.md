@@ -1,4 +1,4 @@
 # Demo-Code
-My journey of coding starts here..
+My journey of coding with python starts here..
 <br>
-Maheta ishteyaqAli
+Maheta IshteyaqAli M.
